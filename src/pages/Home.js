@@ -80,7 +80,7 @@ const Home = () => {
              <footer>
                 <h4>
                     Built with 💙&nbsp;by &nbsp;
-                    <a href="">Engineer Sumit</a>
+                    <a href="https://github.com/Engineer-Sumit/code-pulse">Engineer Sumit</a>
                 </h4>
              </footer>
 
